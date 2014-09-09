@@ -1,4 +1,4 @@
-isa2014
+Iowa Startup Accelerator
 =======
 
 Demo project for Iowa Startup Accelerator
