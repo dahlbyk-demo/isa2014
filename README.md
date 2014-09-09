@@ -1,4 +1,4 @@
 Iowa Startup Accelerator
 =======
 
-Demo project for Iowa Startup Accelerator
+[Demonstration](demonstraton.md) project for Iowa Startup Accelerator
